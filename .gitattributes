@@ -1,3 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 Mitigation[[:space:]]time/inputs/OceanSODA_ETHZ_for_PyOAE/OceanSODA_ETHZ_for_PyOAE* filter=lfs diff=lfs merge=lfs -text
+matlab/m_map/gshhg-bin-2.3.7.zip filter=lfs diff=lfs merge=lfs -text
+matlab/m_map/gshhg-shp-2.3.7.zip filter=lfs diff=lfs merge=lfs -text
